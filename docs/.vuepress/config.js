@@ -5,8 +5,6 @@ import { plumeTheme } from 'vuepress-theme-plume'
 export default defineUserConfig({
     lang: 'zh-CN',
     title: 'Jokul',
-    theme: plumeTheme({
-
-    }),
+    theme: plumeTheme({}),
     bundler: viteBundler(),
 })
