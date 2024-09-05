@@ -18,6 +18,6 @@ config:
           theme: brand
         -
           text: Github
-          link: https://github.com/pengzhanbo
+          link: https://github.com/Jokul482
           theme: alt
 ---
